@@ -1,0 +1,1 @@
+The redirect is happening because my-interests.php thinks the student isn’t logged in. Double-check:

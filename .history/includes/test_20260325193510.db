@@ -1,0 +1,8 @@
+<?php
+var_dump($_POST);
+?>
+
+<form method="POST" action="">
+    <input type="email" name="email" placeholder="Enter email" required>
+    <button type="submit">Submit</button>
+</form>

@@ -1,0 +1,123 @@
+[2026-03-26 18:31:44] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 18:32:04] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:32:06] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:35:56] [::1] [guest] [Admin login FAILED] Username: wronguser, IP: ::1, Attempts: 1
+[2026-03-26 18:36:01] [::1] [guest] [Admin login FAILED] Username: wronguser, IP: ::1, Attempts: 2
+[2026-03-26 18:36:04] [::1] [guest] [Admin login FAILED] Username: wronguser, IP: ::1, Attempts: 3
+[2026-03-26 18:36:09] [::1] [guest] [Rate limit exceeded] IP: ::1, Username: wronguser
+[2026-03-26 18:37:28] [::1] [guest] [Rate limit exceeded] IP: ::1, Username: wronguser
+[2026-03-26 18:37:41] [::1] [guest] [Rate limit exceeded] IP: ::1, Username: wronguser
+[2026-03-26 18:37:52] [::1] [guest] [Rate limit exceeded] IP: ::1, Username: 
+[2026-03-26 18:40:49] [::1] [guest] [Rate limit exceeded] IP: ::1, Username: admin
+[2026-03-26 18:47:39] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-26 18:50:16] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:50:18] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:50:31] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-26 18:54:33] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:54:35] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 18:54:46] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-26 18:54:46] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 18:59:50] [::1] [admin] [Interested students exported] Filter: All, Admin: admin
+[2026-03-26 19:00:49] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 20:33:42] [::1] [guest] [Student login FAILED] Email: john.smith@student.com, IP: ::1, Attempts: 1
+[2026-03-26 20:43:13] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-26 20:43:13] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 20:44:54] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 20:44:55] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-26 20:46:43] [::1] [guest] [Student login FAILED] Email: john.smith@student.com, IP: ::1, Attempts: 1
+[2026-03-26 20:49:43] [::1] [guest] [Student login FAILED] Email: john.smith@student.com, IP: ::1, Attempts: 2
+[2026-03-26 20:53:29] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-26 20:58:33] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-26 20:58:45] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-26 21:12:50] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-26 21:13:00] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-26 21:21:30] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-26 21:28:15] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-26 22:58:08] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-26 22:59:52] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-26 22:59:52] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 23:00:12] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-26 23:09:40] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-27 11:44:46] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 11:44:46] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:51:38] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:51:39] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:52:24] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:52:25] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:52:26] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:52:30] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:54:40] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:54:41] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:54:41] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:54:48] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 11:54:49] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 11:55:09] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 11:55:09] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:56:42] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:57:44] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:57:52] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:57:53] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:57:55] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 11:57:59] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 11:58:00] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 11:58:27] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 11:58:27] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:03:10] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:31] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:36] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:37] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:47] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:49] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:08:50] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:10:13] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:13:32] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:13:39] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:13:40] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:15:21] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:17:23] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:29:04] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:29:11] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:29:14] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:36:06] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:36:08] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:36:14] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:37:06] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:39:48] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:39:49] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:39:54] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:39:57] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:40:37] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 12:55:17] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 12:55:17] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:55:26] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 12:55:28] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 13:25:13] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 13:25:14] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 13:25:25] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 13:25:27] [::1] [alice.johnson] [Staff viewed modules] Staff ID: 1, Username: alice.johnson
+[2026-03-27 13:25:30] [::1] [alice.johnson] [Staff viewed programmes] Staff ID: 1, Username: alice.johnson
+[2026-03-27 13:25:35] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 13:25:46] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-27 13:25:46] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-27 13:26:26] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-27 13:34:01] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-27 13:35:01] [::1] [guest] [Student dashboard accessed] Student ID: 1, Email: john.smith@student.com
+[2026-03-27 13:35:53] [::1] [guest] [Student dashboard accessed] Student ID: 1, Email: john.smith@student.com
+[2026-03-27 13:35:55] [::1] [guest] [Student accessed grades page] Student ID: 1, Name: John Smith
+[2026-03-27 13:35:59] [::1] [guest] [Student accessed attendance page] Student ID: 1, Name: John Smith
+[2026-03-27 13:36:39] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-27 15:26:17] [::1] [guest] [Student login SUCCESS] Email: michael.brown@student.com, IP: ::1
+[2026-03-27 15:26:17] [::1] [guest] [Student dashboard accessed] Student ID: 3, Email: michael.brown@student.com
+[2026-03-27 15:26:29] [::1] [guest] [Student dashboard accessed] Student ID: 3, Email: michael.brown@student.com
+[2026-03-27 15:27:39] [::1] [guest] [Student logout] Email: michael.brown@student.com
+[2026-03-27 15:28:17] [::1] [grace.adams] [Staff login SUCCESS] Username: grace.adams, IP: ::1
+[2026-03-27 15:28:17] [::1] [grace.adams] [Staff dashboard accessed] Staff ID: 7, Username: grace.adams
+[2026-03-27 15:28:23] [::1] [grace.adams] [Staff viewed modules] Staff ID: 7, Username: grace.adams
+[2026-03-27 15:28:26] [::1] [grace.adams] [Staff viewed programmes] Staff ID: 7, Username: grace.adams
+[2026-03-27 15:28:36] [::1] [grace.adams] [Staff dashboard accessed] Staff ID: 7, Username: grace.adams
+[2026-03-27 15:28:37] [::1] [grace.adams] [Staff dashboard accessed] Staff ID: 7, Username: grace.adams
+[2026-03-27 15:28:41] [::1] [grace.adams] [Staff logout] User: grace.adams, IP: ::1
+[2026-03-27 15:35:56] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-27 15:35:56] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-27 15:36:20] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-27 15:36:37] [::1] [guest] [Interest registered] Programme ID: 8, Email: dowrinprity@gmail.com, IP: ::1
