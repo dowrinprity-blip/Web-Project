@@ -121,3 +121,23 @@
 [2026-03-27 15:35:56] [::1] [admin] [Admin dashboard accessed] User: admin
 [2026-03-27 15:36:20] [::1] [admin] [Admin logout] User: admin, IP: ::1
 [2026-03-27 15:36:37] [::1] [guest] [Interest registered] Programme ID: 8, Email: dowrinprity@gmail.com, IP: ::1
+[2026-03-27 19:35:04] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-27 19:35:04] [::1] [guest] [Student dashboard accessed] Student ID: 1, Email: john.smith@student.com
+[2026-03-27 19:35:11] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-27 19:35:26] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 19:35:26] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 19:35:36] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 19:35:39] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 22:13:43] [::1] [guest] [Interest registered] Programme ID: 5, Email: dowrinprity@gmail.com, IP: ::1
+[2026-03-27 22:15:26] [::1] [alice.johnson] [Staff login SUCCESS] Username: alice.johnson, IP: ::1
+[2026-03-27 22:15:26] [::1] [alice.johnson] [Staff dashboard accessed] Staff ID: 1, Username: alice.johnson
+[2026-03-27 22:15:37] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 22:15:40] [::1] [alice.johnson] [Staff logout] User: alice.johnson, IP: ::1
+[2026-03-27 22:15:48] [::1] [admin] [Admin login SUCCESS] Username: admin, IP: ::1
+[2026-03-27 22:15:48] [::1] [admin] [Admin dashboard accessed] User: admin
+[2026-03-27 22:15:58] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-27 22:16:00] [::1] [admin] [Admin logout] User: admin, IP: ::1
+[2026-03-27 22:16:13] [::1] [guest] [Student login SUCCESS] Email: john.smith@student.com, IP: ::1
+[2026-03-27 22:16:13] [::1] [guest] [Student dashboard accessed] Student ID: 1, Email: john.smith@student.com
+[2026-03-27 23:19:00] [::1] [guest] [Student logout] Email: john.smith@student.com
+[2026-03-27 23:19:02] [::1] [guest] [Student logout] Email: john.smith@student.com
